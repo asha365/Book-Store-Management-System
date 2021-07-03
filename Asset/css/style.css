@@ -601,6 +601,57 @@ margin-top:-20px;
 
 
 
+/*++++++++++++++++contact++++++++++++++++contact++++++++++++++++contact++++++++++++++*/
+/*++++++++++++++++contact++++++++++++++++contact++++++++++++++++contact++++++++++++++*/
+
+.about_name span {font-family:cursive; font-size: 40px; font-weight: bold;
+	color: #808080; padding-left: 0px;padding:0px 20px;}
+
+.about_name p {font-family: Times New Roman; font-size: 14px; color: #808080;text-align:justify;padding:0px 20px;}
+
+.quality span {font-family: Times New Roman; font-size: 20px; color: #808080;
+	font-weight: bold;}
+
+.quality_image {}
+.quality_image img {width: 100%; height:250px;}
+
+.quality li {font-family: Times New Roman; font-size: 14px; color: #808080;}
+
+.contact_us span {font-family:cursive; font-size: 40px; color: #808080;
+	font-weight: bold;}
+
+.contact_branch span {font-weight: bold;color: black;}
+
+.contact_branch p {color: black;}
+
+.message_us span {font-family:cursive; font-size: 40px; color: #808080;
+	font-weight: bold;}
+
+.message_form {background: #FFF2CC; color: #808080;}	 				
+
+
+.Dia_footer_m {background: #000000; text-align: center; padding-bottom: 3px;
+	padding-top: 10px;}
+
+.Dia_footer_m p {font-family: Calibri (Body); font-size: 11px; color: #fff;}
+
+.from_dia_fa{
+	background-color:#FFF2CC;
+	border-radius:0px;
+}
+.send_button{
+	background-color:#000;color: #fff; padding-right: 50px;padding-left: 50px; 
+	margin-top:2%;margin-bottom:2%;border-radius:0px;
+}
+
+/*++++++++++++++++contact++++++++++++++++contact++++++++++++++++contact++++++++++++++*/
+/*++++++++++++++++contact++++++++++++++++contact++++++++++++++++contact++++++++++++++*/
+
+
+
+
+
+
 
 
 
